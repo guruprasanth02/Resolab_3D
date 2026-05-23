@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/aimentor.tsx","./src/components/gamification.tsx","./src/components/labbench3d.tsx","./src/components/oscilloscope.tsx","./src/components/phasor3d.tsx","./src/components/plotter.tsx","./src/utils/audio.ts","./src/utils/physics.ts"],"version":"5.9.3"}
