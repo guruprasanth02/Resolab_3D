@@ -23,7 +23,6 @@
 
 The core challenge it solves is the **"transparency of resonance"** — making the precise moment where inductive reactance cancels capacitive reactance (X_L = X_C) visually and procedurally undeniable.
 
-> 🏆 *Built for the VLabs Hackathon — Problem Statement: Series LCR Circuits (CC BY 4.0, inspired by vlabs.ac.in, an MoE Govt. of India initiative)*
 
 ---
 
@@ -225,12 +224,3 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-<div align="center">
-
-**Made with ❤️ for the VLabs Hackathon**
-
-*Bringing invisible electromagnetic phenomena to life — one phasor at a time.*
-
-⭐ **Star this repo if ResoLab 3D helped you understand LCR circuits!**
-
-</div>
